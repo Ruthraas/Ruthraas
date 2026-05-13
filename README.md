@@ -1,34 +1,156 @@
-<h2>Hi, I'm Ruthraas! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h2>
+<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+# RUTHRAAS
 
-<p>
-  <em>
-    Full-Stack Developer, automation enthusiast and technology creator.<br>
-    Building modern systems with focus on performance, scalability and innovation.
-  </em>
-</p>
+```bash
+> Initializing digital environment...
+> Loading futuristic systems...
+> Access granted.
+```
 
-[![GitHub Ruthraas](https://img.shields.io/github/followers/Ruthraas?label=follow&style=social)](https://github.com/Ruthraas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruthraas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Automation+Engineer;Cybersecurity+Enthusiast;Creator+of+Nullyzi+OS;Building+the+future+with+code" />
+
+<br>
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
+
+</div>
 
 ---
 
-### <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="45"> A little more about me...
+# 🌑 About Me
 
-```javascript
-const ruthraas = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js", "Python"],
-  tools: ["React", "Next.js", "Node.js", "Docker", "Git", "Linux"],
-  interests: ["Full-Stack", "Automation", "AI", "Cybersecurity", "Operating Systems"],
-  projects: {
-    os: "Nullyzi OS",
-    security: "PENSEC",
-    role: "CTO at Aurora Technology Society"
-  },
-  currentFocus: "Building futuristic systems with dark, clean and powerful interfaces"
+```ts
+class Ruthraas {
+  name = "Ruthraas"
+  
+  role = [
+    "Full-Stack Developer",
+    "Automation Engineer",
+    "Cybersecurity Enthusiast"
+  ]
+
+  currentProjects = [
+    "Nullyzi OS",
+    "PENSEC",
+    "AI Systems",
+    "Modern Interfaces"
+  ]
+
+  technologies = {
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+
+    backend: [
+      "Node.js",
+      "Fastify",
+      "Prisma"
+    ],
+
+    systems: [
+      "Arch Linux",
+      "Hyprland",
+      "Docker"
+    ]
+  }
+
+  lifeGoal() {
+    return "Build futuristic technology."
+  }
 }
 ```
+
+---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,docker,git,linux,arch,vscode,bash&theme=dark" />
+
+</div>
+
+---
+
+# 🧠 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Building
+
+- Nullyzi OS
+- AI-native systems
+- Modern Linux environments
+- Cybersecurity tools
+- Automation platforms
+
+</td>
+
+<td width="50%">
+
+### 🌌 Exploring
+
+- Low-level systems
+- Performance optimization
+- Linux customization
+- Distributed systems
+- UI/UX futurism
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruthraas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthraas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/Ruthraas">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ruthraas/Ruthraas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f0f0f,50:7c3aed,100:000000&section=footer"/>
+
+</div>
