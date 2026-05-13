@@ -46,11 +46,10 @@ I like building software that is practical, fast and visually disciplined. My wo
 
 ---
 
-## GitHub
+## Contributions
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ruthraas&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthraas&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/Ruthraas/Ruthraas/snake-output/snake.svg" alt="Snake animation" />
 
 </div>
