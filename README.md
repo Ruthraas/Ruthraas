@@ -4,8 +4,6 @@ Full-stack developer focused on automation, AI-assisted systems, cybersecurity f
 
 I like building software that is practical, fast and visually disciplined. My work usually sits between backend services, modern interfaces, Linux environments and tools that remove repetitive work.
 
-[GitHub](https://github.com/Ruthraas)
-
 ---
 
 ## Focus
